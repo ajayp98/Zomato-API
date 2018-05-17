@@ -1,5 +1,5 @@
 # Zomato-API
-get data from zomato APi
+get data from zomato API
 
 The php function files get the data from API and stores it in to database in JSON format.
 Php listener waits for the request made through RabbitMQ (messaging broker)
